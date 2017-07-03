@@ -238,9 +238,7 @@ These are optional rules that add some additional complexity to the game but pro
 Legacy games continue with the same characters and world from game to game.  Individually, legacy games are no different from regular games.  However, since the same characters are being played again, they will be able to recover from some of their wounds.  After each session, the players may choose one of the following options:
 
 1. Recover all Insanity and Injury
-
 2. Recover from one mental complication
-
 3. Recover from one physical complication
 
 Recoveries should be supported by the story, such as spending time at a sanitorium to get over one's fear of darkness.
