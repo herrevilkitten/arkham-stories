@@ -247,6 +247,10 @@ Recoveries should be supported by the story, such as spending time at a sanitori
 
 A player may choose to *Strain a Stat*.  Doing so gives them +2d to roll for completing an action.  However, the player will always gain a point in the associated negative stat, even if the roll is a success.  When straining a state, the player must announce their intention before they roll any dice.
 
+### Combined Wounds
+
+Instead of Injury and Insanity levels, the players have Wounds.  When the player has 6 points in Wounds, they may choose to take either a physical or mental ailment.  Their Wounds points are reset to 0.  This rule is designed to speed up some aspects of play and make the game a little riskier by increasing the rate for ailments.
+
 ## Appendices
 
 ### Sample Story
